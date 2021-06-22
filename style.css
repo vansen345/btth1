@@ -1,0 +1,157 @@
+
+
+body{
+    font-family: sans-serif;
+    margin: auto;
+    box-sizing: border-box;
+    width: 100%;
+
+}
+
+
+
+    
+
+.lienhe {
+    border: 2px solid black;
+    float: left;
+    display: flex;
+    width: 850px;
+    
+}
+.lienhe b{
+    margin-top: 17px;
+}
+.user{
+    float: right;
+    display: flex;
+    padding-right: 50px;
+    padding-left: 30px;
+    border: 2px solid black;
+    width: 400px;
+    
+}
+.search{
+    margin-left: 30px;
+    margin-top: 16px;
+}
+.search input{
+    border-radius: 5px;
+}
+.user button{
+    border-radius: 5px;
+}
+.search input{
+    vertical-align: middle;
+}
+.like{
+    background-color: blue;
+    color: white;
+}
+.follow{
+    background: linear-gradient(to right, #ff105f,#ffad06);
+    color: white;
+}
+.youtube{
+   background-color: red;
+   color: white;
+}
+.logo{
+    color: rgb(88, 46, 46);
+    line-height: 20px;
+    margin-top: 15px;
+    
+}
+.menutop{
+    height: 50px;
+}
+.menutop ul{
+    
+    margin-top: -18px;
+}
+.menutop ul li{
+    display: inline-block;
+    margin-bottom: 100px;
+    padding-left: 10px;
+    
+
+}
+.menutop ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.content-first{
+    float: left;
+    width: 650px;
+    height: 600px;
+    margin-top: 0;
+}
+.page a{
+    
+    padding: 10px;
+    text-decoration: none;
+}
+
+.Trump{
+   width: 600px;
+}
+.substance a{
+    text-decoration: none;
+    color: rgb(88, 46, 46);
+    font-size: 18px;
+}
+.substance p{
+    font-size: 15px;
+}
+.substance span{
+    font-size: 14px;
+}
+.content-second{
+    float: left;
+    width: 280px;
+}
+.substance-second{
+    
+}
+.substance-second b{
+    line-height: 40px;
+   
+}
+.substance-second {
+    border-bottom: 2px solid black;
+}
+.page a{
+    color:rgb(88, 46, 46);
+    font-weight: bold;
+}
+.page-second{
+    float: right; 
+    background-color:rgb(88, 46, 46) ;
+} 
+.page-second a{
+    color: #fff;
+}
+.view p{
+    font-weight: bold;
+    color:rgb(88, 46, 46) ;
+}
+.news p{
+    font-weight: bold;
+}
+.view img{
+    float: right;
+    padding-bottom: 50px;
+}
+
+.content-third{
+    float: right;
+    width: 400px;
+
+}
+.end{
+    padding-right: 30px;
+}
+    
+    
+
